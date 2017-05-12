@@ -11,7 +11,6 @@ namespace gitcursus
         static void Main(string[] args)
         {
             int olé = 1;
-            int olé = 10;
             string test = "lalala";
         }
     }
