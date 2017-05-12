@@ -12,6 +12,7 @@ namespace gitcursus
         {
             int olé = 1;
             string test = "lalala";
+            string test2 = "lalala";
         }
     }
 }
