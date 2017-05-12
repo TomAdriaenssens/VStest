@@ -10,7 +10,7 @@ namespace gitcursus
     {
         static void Main(string[] args)
         {
-            int olé = 10;
+            int olé = 1;
         }
     }
 }
